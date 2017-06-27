@@ -27,7 +27,7 @@ SECRET_KEY = '**gl14&1&vz5jr^hx$ij67#*=p8jduj_249a!rki*c7)8x54s#'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['botnext.herokuapp.com','localhost', '127.0.0.1']
 
 
 # Application definition
